@@ -11,3 +11,15 @@ logwriter
 # Editor backups
 *~
 *.swp
+
+# Executables
+simple_pipe
+producer
+consumer
+bidirectional
+signal_handler
+
+# Test files
+small.txt
+medium.txt
+large.txt
